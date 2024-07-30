@@ -1,2 +1,2 @@
-# MySQLCode
-This repository contains all the code made using MySQL in the course of my study
+# PortfolioProject
+This repository contains all the files use in my Data Analytics Portfolio
